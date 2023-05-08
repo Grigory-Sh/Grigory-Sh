@@ -1,4 +1,4 @@
-![logo](https://www.simbirsoft.com/upload/iblock/050/tog620aho01w9lc2v2896ovqau4d7oud/pasted_image_0.webp)
+![logo](logo.jpg)
 
 # Привет, меня зовут Григорий 👋
 [<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram"/>](https://t.me/macGregor85)
