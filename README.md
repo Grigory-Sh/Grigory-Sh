@@ -5,19 +5,6 @@
 [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn"/>](https://www.linkedin.com/in/grigory-sheverdin/)
 [<img src="https://img.shields.io/badge/HH.ru-red?style=for-the-badge&logo=НАЗВАНИЕ ЛОГОТИПА"/>](https://spb.hh.ru/resume/ed9dff9aff0b52ad230039ed1f624841745849)
 
-* занимаюсь изучением, обработкой данных и машинным обучением 🧑🏻‍💻
-* готов к сотрудничеству 🤝
-* мои проекты 👇
-
-| Название проекта | Описание проекта | Стек |
---- | --- | ---
-[1st recommender system](https://github.com/Grigory-Sh/1st_recommender_system) | Построение рекомендательной системы постов в социальной сети | Pandas, Numpy, Catboost, FastAPI, Pydentic 
-[2st recommender system](https://github.com/Grigory-Sh/2st_recommender_system) | Улучшение рекомендательной системы из первого проекта | Pandas, Numpy, FastAPI, Pydentic
-[A/B testing of 2 models](https://github.com/Grigory-Sh/AB_testing_of_2_models) | Проведение A/B экспериментов двух ранее разработанных моделей | Pandas, Numpy, Catboost, FastAPI, Pydentic
-[Practice simulator](https://github.com/Grigory-Sh/Practice_simulator) | Разработка алгоритма, определяющего вероятность дефолта того или иного заказа на исторических данных из таверн за определённый период | Pandas, Numpy, Matplotlib, Scikit-learn, Sklearn, Catboost, LightGBM, XGboost
-[Mindbox](https://github.com/Grigory-Sh/Mindbox) | Разбиение большого числа покупателей на группы для тестирования гипотез | Python
-[ШИФТ Курс "Аплифт"](https://www.kaggle.com/code/grigorysheverdin/sheverdin-grigory-spb) | Создание UpLift модели | Pandas, Numpy, Catboost
-
 ### Stack
 > <img src="https://img.shields.io/badge/Python-FFFAFA?style=for-the-badge&logo=Python&logoColor=3776AB"/>
 > <img src="https://img.shields.io/badge/Jupyter-FFFAFA?style=for-the-badge&logo=Jupyter&logoColor=FFFAFA"/>
@@ -39,3 +26,16 @@
 > <img src="https://img.shields.io/badge/PyTorch-F5F5F5?style=for-the-badge&logo=PyTorch&logoColor=EE4C2C"/>
 > <img src="https://img.shields.io/badge/SQLAlchemy-F5F5F5?style=for-the-badge&logo=SQLAlchemy&logoColor=3776AB"/>
 > <img src="https://img.shields.io/badge/SciPy-F5F5F5?style=for-the-badge&logo=SciPy&logoColor=8CAAE6"/>
+
+* занимаюсь изучением, обработкой данных и машинным обучением 🧑🏻‍💻
+* готов к сотрудничеству 🤝
+* мои проекты 👇
+
+| Название проекта | Описание проекта | Стек |
+--- | --- | ---
+[ШИФТ Курс "Аплифт"](https://www.kaggle.com/code/grigorysheverdin/sheverdin-grigory-spb) | Создание UpLift модели | Pandas, Numpy, Catboost
+[Mindbox](https://github.com/Grigory-Sh/Mindbox) | Разбиение большого числа покупателей на группы для тестирования гипотез | Python
+[Practice simulator](https://github.com/Grigory-Sh/Practice_simulator) | Разработка алгоритма, определяющего вероятность дефолта того или иного заказа на исторических данных из таверн за определённый период | Pandas, Numpy, Matplotlib, Scikit-learn, Sklearn, Catboost, LightGBM, XGboost
+[A/B testing of 2 models](https://github.com/Grigory-Sh/AB_testing_of_2_models) | Проведение A/B экспериментов двух ранее разработанных моделей | Pandas, Numpy, Catboost, FastAPI, Pydentic
+[2st recommender system](https://github.com/Grigory-Sh/2st_recommender_system) | Улучшение рекомендательной системы из первого проекта | Pandas, Numpy, FastAPI, Pydentic
+[1st recommender system](https://github.com/Grigory-Sh/1st_recommender_system) | Построение рекомендательной системы постов в социальной сети | Pandas, Numpy, Catboost, FastAPI, Pydentic 
