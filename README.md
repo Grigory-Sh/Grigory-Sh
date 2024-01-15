@@ -31,7 +31,7 @@
 * готов к сотрудничеству 🤝
 * мои проекты 👇
 
-| Название проекта | Описание проекта | Стек |
---- | --- | ---
-[Симулятор SQL](https://karpov.courses/simulator-sql) | Практика работы с базами данных | SQL, PostgreSQL
-[ШИФТ Курс "Аплифт"](https://www.kaggle.com/code/grigorysheverdin/sheverdin-grigory-spb) | Создание UpLift модели | Pandas, Numpy, Catboost
+| Название проекта | Описание проекта | Стек | Repositories |
+--- | --- | --- | ---
+[Симулятор SQL](https://karpov.courses/simulator-sql) | Практика работы с базами данных | SQL, PostgreSQL | [Simulator-SQL](https://github.com/Grigory-Sh/Simulator-SQL)
+[ШИФТ Курс "Аплифт"](https://www.kaggle.com/code/grigorysheverdin/sheverdin-grigory-spb) | Создание UpLift модели | Pandas, Numpy, Catboost | 
