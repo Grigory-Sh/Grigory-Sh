@@ -3,7 +3,7 @@
 # Привет, меня зовут Григорий 👋
 [<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram"/>](https://t.me/macGregor85)
 [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn"/>](https://www.linkedin.com/in/grigory-sheverdin/)
-[<img src="https://img.shields.io/badge/HH.ru-red?style=for-the-badge&logo=НАЗВАНИЕ ЛОГОТИПА"/>](https://spb.hh.ru/resume/ed9dff9aff0b52ad230039ed1f624841745849)
+[<img src="https://img.shields.io/badge/HH.ru-red?style=for-the-badge&logo=НАЗВАНИЕ ЛОГОТИПА"/>](https://spb.hh.ru/resume/f2e06187ff0cc201080039ed1f70324c656975)
 
 ### Stack
 > <img src="https://img.shields.io/badge/Python-FFFAFA?style=for-the-badge&logo=Python&logoColor=3776AB"/>
@@ -34,8 +34,3 @@
 | Название проекта | Описание проекта | Стек |
 --- | --- | ---
 [ШИФТ Курс "Аплифт"](https://www.kaggle.com/code/grigorysheverdin/sheverdin-grigory-spb) | Создание UpLift модели | Pandas, Numpy, Catboost
-[Mindbox](https://github.com/Grigory-Sh/Mindbox) | Разбиение большого числа покупателей на группы для тестирования гипотез | Python
-[Practice simulator](https://github.com/Grigory-Sh/Practice_simulator) | Разработка алгоритма, определяющего вероятность дефолта того или иного заказа на исторических данных из таверн за определённый период | Pandas, Numpy, Matplotlib, Scikit-learn, Sklearn, Catboost, LightGBM, XGboost
-[A/B testing of 2 models](https://github.com/Grigory-Sh/AB_testing_of_2_models) | Проведение A/B экспериментов двух ранее разработанных моделей | Pandas, Numpy, Catboost, FastAPI, Pydentic
-[2st recommender system](https://github.com/Grigory-Sh/2st_recommender_system) | Улучшение рекомендательной системы из первого проекта | Pandas, Numpy, FastAPI, Pydentic
-[1st recommender system](https://github.com/Grigory-Sh/1st_recommender_system) | Построение рекомендательной системы постов в социальной сети | Pandas, Numpy, Catboost, FastAPI, Pydentic 
