@@ -33,7 +33,7 @@
 
 | Название проекта | Описание проекта | Стек |
 --- | --- | ---
-[Hello_bot](https://github.com/Grigory-Sh/Karpov_Courses_Hello_bot) | Бот приветствующий новых участников чата, и просящий их рассказать о себе | Python, Aiogram, ChatGPT
+[Hello_bot](https://github.com/Grigory-Sh/Simulator-ML-Onboarding-Bot) | Бот приветствующий новых участников чата, и просящий их рассказать о себе | Python, Aiogram, ChatGPT
 [Симулятор ML-инженера](https://github.com/Grigory-Sh/ML-Simulator) | Практика по решению различных задач ML-инженера | Python, ML
 [Симулятор SQL](https://github.com/Grigory-Sh/Simulator-SQL) | Практика работы с базами данных | SQL, PostgreSQL
 [ШИФТ Курс "Аплифт"](https://www.kaggle.com/code/grigorysheverdin/sheverdin-grigory-spb) | Создание UpLift модели | Pandas, Numpy, Catboost
